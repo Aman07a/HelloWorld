@@ -1,4 +1,13 @@
-# Logical Operators
-price = 5
-print(price > 10 or price < 30)
-print(not price > 10)
+# If Statements
+temperature = 5
+
+if temperature > 30:
+    print("It's a hot day")
+    print("Drink plenty of water")
+elif temperature > 20:
+    print("It's a nice day")
+elif temperature > 10:
+    print("It's a bit cold")
+else:
+    print("It's cold")
+print("Done")
