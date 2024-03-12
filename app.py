@@ -1,5 +1,2 @@
-age = 20
-price = 19.95
-first_name = "Aman"
-is_online = False
-print(age)
+name = input("What is your name? ")
+print("Hello " + name)
