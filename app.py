@@ -1,9 +1,5 @@
-# Type Conversion
-birth_year = input("Enter your birth year: ")
-age = 2020 - int(birth_year)
-print(age)
-
-first = float(input("First: "))
-second = float(input("Second: "))
-sum = float(first) + float(second)
-print("Sum: " + str(sum))
+# Strings
+course = "Python for Beginners"
+print(course.find('y'))
+print(course.replace('x', '4'))
+print('Python' in course)
