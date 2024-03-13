@@ -1,9 +1,7 @@
-# For Loops
-numbers = [1, 2, 3, 4, 5]
-for item in numbers:
-    print(item)
+# The range() Function
+numbers = range(5, 10, 2)
+for number in numbers:
+    print(number)
 
-i = 0
-while i < len(numbers):
-    print(numbers[i])
-    i = i + 1
+for number in range(5):
+    print(number)
