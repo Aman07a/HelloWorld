@@ -1,9 +1,7 @@
-# While Loops
-i = 1
-while i <= 5:
-    print(i)
-    i = i + 1
-
-while i <= 10:
-    print(i * '*')
-    i = i + 1
+# Lists
+names = ["John", "Bob", "Mosh", "Sam", "Mary"]
+print(names)
+print(names[0])
+names[0] = "Jon"
+print(names)
+print(names[0:3])
