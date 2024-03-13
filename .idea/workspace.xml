@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e22ea7f-5322-4035-abdb-f7499af2cbad" name="Changes" comment="">
+    <list default="true" id="2e22ea7f-5322-4035-abdb-f7499af2cbad" name="Changes" comment="Lists">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -73,9 +73,20 @@
       <option name="presentableId" value="Default" />
       <updated>1710240451696</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lists">
+      <option name="closed" value="true" />
+      <created>1710348466994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710348466994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lists" />
   </component>
 </project>

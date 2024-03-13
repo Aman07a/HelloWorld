@@ -1,7 +1,6 @@
-# Lists
-names = ["John", "Bob", "Mosh", "Sam", "Mary"]
-print(names)
-print(names[0])
-names[0] = "Jon"
-print(names)
-print(names[0:3])
+# List Methods
+numbers = [1, 2, 3, 4, 5]
+# numbers.append(6)
+# print(numbers)
+# print(10 in numbers)
+print(len(numbers))
